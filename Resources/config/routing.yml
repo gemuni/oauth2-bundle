@@ -1,0 +1,3 @@
+gemuni_o_auth2_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: GemuniOAuth2Bundle:Default:index }
