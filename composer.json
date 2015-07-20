@@ -1,0 +1,21 @@
+{
+    "name": "gemuni/oauth2-bundle",
+    "description": "\"Symfony 2, Oauth2 server, Oauth2 client\"",
+    "require-dev": {
+        "\"symfony/symfony\"": " \"2.6.*\"",
+        "symfony/symfony": "*",
+        "doctrine/doctrine-bundle": "*",
+        "doctrine/doctrine-mongo-odm-module": "*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "DuyHuynh",
+            "email": "duy.hngoc@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+
+    }
+}
